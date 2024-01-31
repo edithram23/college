@@ -1,0 +1,89 @@
+html,body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .MainContainer{
+      display: flex;
+      flex-direction: row;
+  }
+  
+  .Page{
+    border-bottom: 3px solid #bfa161 ;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    height: 100%;
+    z-index:1;
+  }
+  /* Header & its elements CSS */
+  .Header{
+    position: relative;
+    width: 1511.2px;
+    height: 140px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-bottom: 3px solid #bfa161;
+  }
+  
+  .headcontainer{
+      width: 1000px;
+      height: 140px;
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+  
+  }
+  
+  .list{
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+    font-size: 15px;
+    padding: 0 20px 0 20px;
+    justify-content: center;
+  }
+  
+  a{
+    color: black;
+    text-decoration: none;
+  }
+
+  
+  /*  */
+  
+  
+  .rbody{
+    position: relative;
+    width: 1511.2px;
+    height: fit-content;
+    background-color: white;
+  }
+
+#Ambani{
+    width: 1511.2px;
+    position: relative;
+}
+  
+  /*  */
+  
+  .rabout{
+    background-color: blanchedalmond;
+    display: block;
+    width: 1511.2px;
+    height: 367px;
+  }
+
+  .about{
+    width: 100%;
+    height: 100%;
+  }
+  /*  */
+  .rcreator{
+    background-color: blueviolet;
+    display: block;
+    width: 1511.2px;
+    height: 64.8px;
+  }
+

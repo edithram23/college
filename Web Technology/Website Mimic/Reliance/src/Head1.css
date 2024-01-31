@@ -1,0 +1,82 @@
+.Headcontainer{
+    width: 960px;
+    height: 105px;
+   
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+.Head{
+    display: flex;
+    flex-direction: row;
+    column-gap: 250px;
+    padding: 20px 0;
+}
+
+.image{
+    width: min-content;
+}
+
+.box{
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+}
+
+.facebook{
+    width: 34px;
+    height: 31px;
+    background-image: url('https://www.ril.com/App_Themes/RIL/images/generic/facebook-icon.png');
+    background-size: initial;
+    background-color: #bfa161;
+    overflow: visible;
+    background-position-x: 50%;
+    background-position-y: center;
+    background-size: initial;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    
+}
+
+.linkdin{
+    width: 34px;
+    height: 31px;
+    background-image: url('https://www.ril.com/App_Themes/RIL/images/generic/linkedin-icon.png');
+    background-size: initial;
+    background-color: #bfa161;
+    overflow: visible;
+    background-position-x: 50%;
+    background-position-y: center;
+    background-size: initial;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+}
+
+.twitter{
+    width: 34px;
+    height: 31px;
+    background-image: url('https://www.ril.com/App_Themes/RIL/images/generic/twitter-icon.png');
+    background-size: initial;
+    background-color: #bfa161;
+    overflow: visible;
+    background-position-x: 50%;
+    background-position-y: center;
+    background-size: initial;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+}
+
+.search{
+    width: 460px;
+    height:31px;
+}

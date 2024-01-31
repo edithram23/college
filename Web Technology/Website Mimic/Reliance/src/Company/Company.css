@@ -1,0 +1,41 @@
+.back{
+    margin:auto;
+    width:1000px;
+    height: max-content;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.Ambanimamatxt{
+    width: 201.34px;
+    height: 76.8px;
+    position: absolute;
+    left: 340px;
+    top: 180px;
+    border-bottom: 1px solid #b69960;
+    line-height: 0;
+
+}
+
+.name{
+    font-size: 18px;
+    font-weight: 500;
+    color:#b69960;
+}
+
+
+.designation{
+    font-size: 14px;  
+    margin-bottom: 10px;
+    color:white;  
+    display: block;
+    font-weight: 300;
+}
+
+.directors{
+    margin-top: 50px;
+    width: 1000px;
+    height: auto;
+}
+
+

@@ -1,0 +1,58 @@
+html,body{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.MainContainer{
+    display: flex;
+    flex-direction: row;
+}
+
+.Page{
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  height: 100%;
+  z-index:1;
+}
+/* Header & its elements CSS */
+.Header{
+  position: relative;
+  width: 1519.2px;
+  height: 140px;
+  margin: 0 auto;
+  background-color: #fff;
+}
+
+.headcontainer{
+    width: 1000px;
+    height: 140px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+/*  */
+.rbody{
+  position: relative;
+  width: 1519.2px;
+  height: fit-content;
+}
+
+/*  */
+
+.rabout{
+  background-color: blanchedalmond;
+  display: block;
+  width: 1519.2px;
+  height: 367px;
+}
+/*  */
+.rcreator{
+  background-color: blueviolet;
+  display: block;
+  width: 1519.2px;
+  height: 64.8px;
+}
